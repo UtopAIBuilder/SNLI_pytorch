@@ -1,0 +1,2 @@
+Kindly retieve the model parameters from this link:https://drive.google.com/open?id=1ZZBg7a6M9DL86FXAXMMPiQ9SEaBk6yva
+and save the contents in this folder to execute the main.py smoothly.
